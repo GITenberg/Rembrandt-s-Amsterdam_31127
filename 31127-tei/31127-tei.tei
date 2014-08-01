@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2 lang="en">
+<teiHeader>
+ <fileDesc>
+ <titleStmt>
+ <title>Rembrandt's Amsterdam
+</title>
+ <author>Frits Lugt</author>
+ </titleStmt>
+ <editionStmt>
+  <edition n="1">Edition 1</edition>
+ </editionStmt>
+ <publicationStmt>
+ <publisher>Project Gutenberg</publisher>
+ <date value="2010-01-30">January 30, 2010</date>
+ <idno type="etext-no">31127</idno>
+ <availability>
+ <p>This eBook is for the use of anyone anywhere at no cost and
+ with almost no restrictions whatsoever. You may copy it, give it
+ away or re-use it under the terms of the Project Gutenberg
+ License online at www.gutenberg.org/license</p>
+ </availability>
+ </publicationStmt>
+
+ <sourceDesc>
+  <bibl>
+  <title>Rembrandt's Amsterdam</title>
+  <author>Frits Lugt</author>
+  <imprint>
+   <pubPlace>Boston</pubPlace>
+   <publisher>Museum of Fine Arts</publisher>
+   <date>1915</date>
+  </imprint>
+  </bibl>
+ </sourceDesc>
+ </fileDesc>
+
+ <encodingDesc>
+ <classDecl>
+  <taxonomy id="lc">
+  <bibl>
+   <title>Library of Congress Classification</title>
+  </bibl>
+  </taxonomy>
+ </classDecl>
+ </encodingDesc>
+ <profileDesc>
+ <langUsage>
+  <language id="en"></language>
+  <language id="fr"></language>
+  <language id="nl"></language>
+ </langUsage>
+<textClass>
+  <classCode scheme="lc">PR</classCode>
+<keywords>
+<list>
+<item>Rembrandt Harmenszoon van Rijn, 1606-1669</item>
+</list>
+</keywords>
+</textClass>
+ 
+ </profileDesc>
+ <revisionDesc>
+ <change>
+  <date value="2010-01-30">January 30, 2010</date>
+  <respStmt>
+  <name>Martin Schub<lb /></name>
+  </respStmt>
+  <item>Project Gutenberg Edition</item>
+ </change>
+ </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    .boxed           { x-class: boxed }
+    .shaded          { x-class: shaded }
+    .rules           { x-class: rules; rules: all }
+    .indent          { margin-left: 2 }
+    .bold            { font-weight: bold }
+    .italic          { font-style: italic }
+
+    figure           { text-align: center; page-float: 'p' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w80             { }
+    .w70             { }
+    .w50             { }
+    .w20             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w80             { width: 80% }
+      .w70             { width: 70% }
+      .w50             { width: 50% }
+      .w20             { width: 20% }
+      .w05             { width: 5% }
+    }
+  </pgStyleSheet>
+</pgExtensions>
+
+<text lang="en">
+
+<front>
+
+<div>
+<divGen type="pgheader" />
+</div>
+<div>
+  <divGen type="encodingDesc" />
+</div>
+
+<titlePage rend="page-break-before: right">
+ <docTitle><titlePart type="main" rend="font-size: x-large">Rembrandt's Amsterdam</titlePart><lb /><lb/>
+</docTitle>
+<titlePart type="sub">Reprinted, by permission of Museum of Fine Arts, Boston, from <q>The Print-Collector's Quarterly</q></titlePart>
+
+ <byline><lb /><lb /><lb /><docAuthor>Frits Lugt</docAuthor><lb /><lb /><lb /><lb /></byline>
+
+<docImprint>Museum of Fine Arts, Boston</docImprint><lb />
+<docDate>1915</docDate>
+</titlePage>
+
+<div rend="page-break-before: right">
+<index index="pdf" />
+<head>Contents</head>
+<divGen type="toc" />
+</div>
+
+<div rend="page-break-before: right">
+<head>Illustrations</head>
+<divGen type="fig" />
+</div>
+
+<div rend="page-break-before: right">
+<figure url="images/map_h.jpg" rend="w90">
+<anchor id="map" />
+<index index="fig" />
+<head>PLAN OF THE CITY OF AMSTERDAM ABOUT 1650</head>
+<figDesc>Plan of the City of Amsterdam about 1650</figDesc>
+</figure>
+
+
+<div>
+<index index="toc" />
+<head>Map Key</head>
+
+<figure url="images/extent.jpg" rend="w20">
+<head>
+Line indicating the extension of the town, started during the last ten years of Rembrandt's life.
+</head>
+</figure>
+
+<list>
+<item>1. House of the painter <name>Pieter Lastman</name>, the master of Rembrandt, in the <q>St. Anthonie-breestraat.</q>  In the same street was the house of the dealer <name>Hendrick Uylenburgh</name>, with whom Rembrandt stayed during the first years after his settlement in Amsterdam.</item>
+
+<item>2. House in the <q>Doelenstraat</q> where <name>Rembrandt</name> lived in 1636 (see plates <ref target="plate_18" rend="color: blue">18</ref>, <ref target="plate_19" rend="color: blue">19</ref>, <ref target="plate_20" rend="color: blue">20</ref>).</item>
+
+<item>3. Part of the Amstel where <name>Rembrandt</name> seems to have lived towarda 1639.</item>
+
+<item>4. House in the <q>St. Anthonie-breestraat</q> (now called <q>Joden-breestraat,</q> No. 4) occupied and owned by <name>Rembrandt</name> from 1639 until 1658 (see <ref target="plate_16" rend="color: blue">plate 16</ref>).  On the canal behind was the Synagogue of his friend <name>Menasseh-ben-Israel</name>.  The bridge and sluice seen on <ref target="plate_17" rend="color: blue">plate 17</ref> is the one between this red number and number 1.</item>
+
+<item>5. House on the <q>Rosengracht</q> (now No. 184) where <name>Rembrandt</name> lived during the last ten years of his life.</item>
+
+<item>6. The <q>Bloemgracht</q> where Rembrandt is said to have used a store-house as a studio, principally for his pupils, during his first years in Amsterdam.</item>
+
+<item>7. The place where Rembrandt's son <name>Titus</name> lived, on the <q>Singel,</q> opposite the apple-market, in 1668, during his short married life (see <ref target="plate_11" rend="color: blue">plate 11</ref>).</item>
+
+<item>8. House on the <q>Keizersgracht</q> (now No. 208) of <name>Dr. Nicolaes Tulp</name>, the principal person in Rembrandt's painting <title>The Anatomical Lesson.</title>  Next to him lived <name>Dr. Aernout Tholinx</name>, whose portrait was etched and painted by Rembrandt.</item>
+
+<item>9. House on the <q>Singel</q> (now Nos. 140-142) of <name>Mr. F. Banning Cocq</name>, the Captain in Rembrandt's masterwork, <title>The Night-watch</title> (see <ref target="plate_23" rend="color: blue">plate 23</ref>).</item>
+
+<item>10. House on the <q>Kloveniersburgwal</q> (now No. 47) in which apparently lived <name>Mr. Jan Six</name>, a well-known and influential person in Rembrandt's life, whose painted and etched portraits count among Rembrandt's finest productions.</item>
+
+<item>11. House in the <q>Kalverstraat</q> (now No. 10) of the print-dealer and publisher <name>Clement de Jonghe</name> whose portrait Rembrandt etched.</item>
+
+<item>12. The old St. Anthony-gate, in Rembrandt's days Public Weighing-House, and, on the first floor, the seat of the Surgeon's Guild, of which <name>Dr. Tulp</name> and <name>Dr. Deyman</name> were the foremen.</item>
+
+<item>13. The <q>Doelen,</q> meeting-place of the Civic Guard, for which Rembrandt's <title>Nightwatch</title> was painted.  At its side the tower, Swyght-Utrecht (see <ref target="plate_18" rend="color: blue">plates 18</ref>,<ref target="plate_19" rend="color: blue">19</ref>,<ref target="plate_20" rend="color: blue">20</ref>).</item>
+
+<item>14. The <foreign lang="nl">Staalhof</foreign>, the office for which Rembrandt executed his celebrated picture known as <title>The Syndics.</title></item>
+
+<item>15. The inn called <name>De Keizers Kroon</name> in the Kalverstraat (now No. 71) where Rembrandt's collections were sold at auction, after his bankruptcy, in 1657 and 1658 (see <ref target="plate_22" rend="color: blue">plate 22</ref>).</item>
+
+<item>16. The <name>Dam</name>, with the town-hall on the right and the Public Weighing-House in the middle (see plates <ref target="plate_02" rend="color: blue">2</ref>,<ref target="plate_03" rend="color: blue">3</ref>,<ref target="plate_04" rend="color: blue">4</ref>).</item>
+
+<item>17. The bridge called <name>Grimnessesluis</name> (see <ref target="plate_05" rend="color: blue">plate 5</ref>).</item>
+
+<item>18. The St. Anthony-gate (see <ref target="plate_06" rend="color: blue">plate 6</ref>) at the end of the street where Rembrandt lived.</item>
+
+<item>19. The spot where Rembrandt has apparently sketched the mills and the views of the town (see <ref target="plate_07" rend="color: blue">plate 7</ref>).</item>
+
+<item>20. The tower called <name>Montelbaanstoren</name> (see plates <ref target="plate_09" rend="color: blue">9</ref> and <ref target="plate_10" rend="color: blue">10</ref>) and the bridge from which Rembrandt sketched it.</item>
+
+<item>21. The bridge called <q>Leliebrug,</q> from which Rembrandt sketched the tower of the church called <title>Westerkerk</title>.  This church, on the map, is between the bridge and the house numbered 8.  (See <ref target="plate_13" rend="color: blue">plate 13</ref>.)  In this church Rembrandt was buried.</item>
+
+<item>22. About this spot Rembrandt must have found the subject for his etching <title>View of Amsterdam</title> (see Frontispiece, <ref target="plate_01" rend="color: blue">plate 1</ref>). When this etching was executed, the tongue of land, near there, with the two bastions, did not yet exist.</item>
+
+<item>23. Bridge called <name>Blaubrug</name> (Blue Bridge) where Rembrandt sketched the perspective along the Amstel river.</item>
+
+<item>24. Houses on the <q>Singel</q> (now Nos. 234-236) where the caligrapher <name>Lieven Willemsz. Coppenal</name>, an intimate friend of Rembrandt, had his school, and probably lived.</item>
+
+<item>25. House on the <q>Keizersgracht</q> (stated as the second house from the <q>Beerenstraat</q>), where the painter <name>Johan van de Cappelle</name>, a friend and fervent admirer of Rembrandt, lived until 1663.</item>
+
+<item>26. House in the <q>Koestraat</q> (now No. 15), where the same painter lived after 1663. This house, until then, had been inhabited by the celebrated musician <name>Sweelinck</name> and his descendants.</item>
+
+<item>27. House on the <q>Lauriergracht</q> (probably between the first and second bridge) where Rembrandt's pupil <name>Govert Flinck</name> lived from 1644, until his death in 1660.  Ten years earlier he was staying in the house of the dealer Hendrick Uylenburgh (see above) where Rembrandt then also lived.</item>
+</list>
+<p>
+To locate the houses of some others of Rembrandt's artist-friends and pupils is more difficult: <name>Ferdinand Bol</name> lived, in Rembrandt's time, on the "Fluweele burgwal" (i.e., on the map, the left-hand side of the canal numbered 28), and afterwards in the new extension on the "Keizersgracht" near the "Spiegelstraat." So did <name>Gerbrand van den Eeckfwut</name>, who died on the "Heeren-gracht" near the " Viyselstraat." <name>Philips Koninck</name> lived, in Rembrandt's time, on the "Keizersgracht," the same canal where we found Tulp and van de Cappelle.
+</p>
+</div>
+
+</div>
+
+</front>
+
+<body rend="page-break-before: right">
+
+<div rend="page-break-before: right">
+  <index index="toc" />
+  <index index="pdf" />
+<head>REMBRANDT'S AMSTERDAM</head>
+<head type="sub">By Frits Lugt</head>
+<head type="sub">I</head>
+
+<figure url="images/plate01h.jpg" rend="w90">
+<anchor id="plate_01" />
+<index index="fig" />
+<head>Plate 1. View of Amsterdam from the East. <emph>(reversed)</emph>.      
+        After the etching by Rembrandt</head>
+<figDesc>Plate 1. View of Amsterdam from the East. </figDesc>
+</figure>
+
+<pb n="111" />
+<p>
+<q>The city seems to float upon the waters and looks like the sovereign of the deep. It is crowded with merchants of every nation and its habitants are themselves the most eminent merchants in the world.  It appears, at first, not to be the city of any particular people, but to be common to all, as the centre of their commerce.  The vessels in this harbour are so numerous, as almost to hide the water in which they float; and the masts look at a distance like a forest.</q>
+</p>
+<p>
+<q>I gazed, with insatiable curiosity, upon this great city, in which everything was in motion.</q>
+</p>
+<p>
+This impression of Amsterdam by a seventeenth century author <note place="foot">
+<p>
+Fenelon, <title>The Adventures of Telemachus</title>, Book III, where we find stated in a footnote that the description of the Phoenician town, Tyre, actually depicts Amsterdam.
+</p>
+</note>
+takes us back to the time when no rivals had yet contested with the town its commercial monopoly,&mdash; when its full and radiant display struck the eyes of every visitor.  Tempted though we feel to recall this glorious past (the period and direct surroundings of its greatest painter), we naturally take Amsterdam's present state as a basis, and in doing so painfully notice the loss of precious reminiscences which the course
+<pb n="112" />
+of time has inevitably involved.  But realising that such loss is not only the consequence of neglect and lack of respect, and that to a large degree modern life with its different requirements and intensity forcibly causes cruel changes, we must conquer our regrets and rather view with open eyes the vitality of the town and the renewed energy of its present existence.  Sad indeed is the aspect of towns, known as <q>dead cities,</q> which preserve their old architectural appearance, and where all life seems extinguished.  They are but their own shadows and a perpetual outcry against the reverses of Fate or the relaxation of human energy, which proved unable to carry on the aspirations of preceding generations.  Fortunately Amsterdam escaped this disgrace, because its spark of life never quite died out; the burning vigour of its inhabitants, which was instrumental in raising the town's prosperity in the seventeenth century, may seem a high-flaming fire compared to the peaceful existence of its rich population in the eighteenth century; and it may be true that the former energy and enterprise were reduced to glowing embers about the beginning of the nineteenth century; but let it be recognised that the same fire always smouldered and that it is now spreading anew with a sympathetic stubbornness.  When Motley says, in his <q>History of the United Netherlands,</q> that the Dutch Republic was <q>sea-born and sea-sustained,</q> we have to apply this, in the first place, to its most important town, Amsterdam, and if we then remember that the suppression of a nation accustomed to maritime pursuits is one of the rarest things in history, we shall arrive at a better understanding of Amsterdam's vitality.
+</p>
+
+<p>
+In a town where life so maintained its course, we cannot 
+<pb n="113" />
+expect to find whole quarters preserved, just as they appeared in the first half of the seventeenth century; the general disposition of the town, however, is so original and effective that its indestructible plan survived until our days.  There are in the world but few towns that possess such a charming singularity, and Venice is probably the only town offering a similar attraction, although it differs in many respects.  Hence, Amsterdam's surname of <emph>The Venice of the North</emph> is easily accounted for, and appears already in the writings of Guicciardini, the sixteenth-century historian.  It is the water that lends to the town its peculiar charm, and while some canals had to be filled in to create carriage accommodation in the old parts, most were preserved, and though in their water other house-fronts are reflected, the visitor can reconstruct, without great difficulty, a vision of Amsterdam in Rembrandt's days.
+</p>
+<p>
+Let us offer some help to the visitor in his efforts to revive the old town in his imagination.  Such assistance is needed, because Amsterdam is not a place where one would prefer to be left alone with his dreams.  Modern life overshadows the past to such an extent, that one cannot transpose one's self three centuries by simply eliminating the present; there are no ruins which induce us to reconstruct, in our mind, that which has vanished, no population which has arrested its progress at the period of its greatest prosperity.  Fortunately the <emph>nature</emph> of Amsterdam's beauty and originality has not changed and from this fact every newcomer may derive great help in his efforts to rebuild the scenes of bygone times.
+</p>
+<p>
+First of all, let the stranger take into consideration that Rembrandt took up his abode in the town when it 
+<pb n="114" />
+was rapidly growing, and when the picturesqueness of its late-mediaeval appearance had to concede to graver conceptions, based on the classics and the Italian renaissance.  Let him remember that the threefold girdle of wide canals lined with big houses, which now embraces the old city, was at that time only in course of construction, and that less stately canals preserved a more intimate aspect.  These narrower waterways in the heart of the old town, filled with barges between quays crowded with merchandise, reveal more the city's growth and nature,&mdash;the stately but less lively canals of a later extension typify better the pride and ease ensuing from the reaped harvest.
+</p>
+<p>
+When Rembrandt came to Amsterdam about 1631 he found the town broken through its boundaries and new quarters risen on the fields outside, which a former generation had known only as meadows and vegetable gardens.  The artist must have noticed many changes even since he passed his years of apprenticeship in Amsterdam in the studio of <name>Pieter Lastman</name>, returning again to his native town Leyden during the intermediate seven or eight years.
+</p>
+<p>
+Until the period of Rembrandt's settling in Amsterdam, this city, although having been long the metropolis of the Northern Netherlands, had not been very different in aspect to other important Dutch towns; its seventeenth-century buildings belong to the same school of architecture as those of the other cities, like Haarlem, Alkmaar, Leyden.  Its immense prosperity and development as Europe's most important seaport since about 1600, however, originated a notable change: its aspect gradually became more individual, until in the second part of the golden century it had assumed the grandeur
+<pb n="115" />
+worthy of <q>the capital of Europe, the neighbours' support and hope,</q> as our greatest poet then justly called her.  Important buildings and a very logically and royally planned extension of its canals and streets were the causes of this alteration.  We do not know of any other big town of that period so systematically laid out, with such a preservation of its original beauty and with such an outspoken aim to obtain in its new thoroughfares a similar attraction to the eyes.  Of all the cities of the Netherlands none possessed the means, or were forced to undertake such big works, as Amsterdam.  Consequently the best Dutch architects of that time erected their finest and most important edifices in Amsterdam, and very often exclusively built there; and this accounts for her assuming that individual aspect of stateliness.
+</p>
+<p>
+Rembrandt got acquainted in Amsterdam with two distinct architectural periods: 1st, the one just closed on his arrival, dominated by the eminent architect and sculptor <name>Hendrick de Keyser</name> (father of the celebrated portrait-painter Thomas de Keyser); 2d, the following period, influenced by <name>Jacob van Campen</name>.  The first period enriched Amsterdam with a great number of buildings, generally in red brick with decorations in clear sandstone, of a varied and often baroque appearance; their style, although based on early sixteenth-century Italian renaissance, may be called a typical Dutch one, strongly personified as it was, towards the end of the sixteenth century, by Netherlandish architects, like Cornells Floris and Vredeman de Vries.&mdash;In the second period, when the classical style after Palladio became generally accepted, the variety of aspect and the baroque details had to yield to monumentality and severity.
+</p>
+
+<figure url="images/plate02h.jpg" rend="w90">
+<anchor id="plate_02" />
+<index index="fig" />
+<head>Plate 2. The Old Town Hall in Amsterdam. After an engraving by Cl. 
+        Jz. Visscher.</head>
+<figDesc>Plate 2. The Old Town Hall in Amsterdam.</figDesc>
+</figure>
+
+<p>
+The spirit of the town's aspirations is best reflected
+<pb n="116" />
+<pb n="117" />
+<pb n="118" />
+in her town-hall, which marks the culminating point of her evolution (about 1650).  That imposing square building, still in existence in Amsterdam's centre, called the <foreign lang="nl">Dam</foreign>, must be familiar to all who have visited the town, and the interested art-lover may have noted that this building, grand and magnificent as it is, has no typical Dutch character such as marks Amsterdam's earlier buildings.  He will have remarked a strong tendency to the classic style of Italy, and the rich marble sculptures inside must have appeared to him as belonging to another school than the contemporary Dutch pictures, which he admired in Amsterdam's R&yuml;ksmuseum.  In this circumstance we may find the clue to the disharmony which existed between Rembrandt and his surroundings in his later years.  His art and the spirit of his contemporaries were going athwart with different aims.  When the artist settled down in Amsterdam, at the age of twenty-five, circumstances were still favourable to a good mutual understanding: the ambitious and pulsating spirit of the growing commercial city must have felt akin to the boisterous aspirations of the young, gifted artist.  His great material success during the first years furnishes a proof of this supposition.  Then more and more came the alienation, and it is most instructive to compare the different results at which the artist and the intelligent population arrived: the artist, guided by the strength of his immense personality and talent, remained himself, but his fellow-citizens gradually changed their taste and predilections in matters of art and intellect, uncertain as they were of themselves in these matters.  Being more gifted as traders than as artists, they showed that short-sightedness and narrowmindedness in judging their contemporary artists, which
+<pb n="119" />
+<pb n="120" />
+so often repeats itself in history (even in our time!).  They were unable to understand the strength and value of the country's native art, and turned to foreign taste, even to foreign workmanship, as in the case of the commission to <name>Quellinus</name>, the Flemish sculptor, to execute the sculptures in the town-hall, thus emphasizing their preference for the school of Rubens and Van Dyck above the one of Hals and Rembrandt.  This tendency occasioned a preference for foreign theories and forms, and so we see between 1648 and 1660 a town-hall built, ten times bigger than the former one and costing, according to our money, about twenty million guilders, resulting in a work of art, imposing but not essentially Dutch (plates <ref target="plate_02" rend="color: blue">2</ref>, <ref target="plate_03" rend="color: blue">3</ref>, <ref target="plate_04" rend="color: blue">4</ref>).
+</p>
+
+
+<figure url="images/plate03h.jpg" rend="w90">
+<anchor id="plate_03" />
+<index index="fig" />
+<head>Plate 3. The Ruins of the Old Town Hall in Amsterdam, after the Fire in 1652. After the drawing by Rembrandt, formerly in the Heseltine Collection, now in the Rembrandt House in Amsterdam.</head>
+<figDesc>Plate 3. The Ruins of the Old Town Hall in Amsterdam, after the Fire in 1652.</figDesc>
+</figure>
+
+<figure url="images/plate04h.jpg" rend="w90">
+<anchor id="plate_04" />
+<index index="fig" />
+<head>Plate 4. The New Town-Hall in Amsterdam, about 1660.  The square building on the right is the public Weighing-House, where Rembrandt sketched the ruins of the old town-hall (see preceding illustration).  After an etching by J. van der Ulft, 1656.</head>
+<figDesc>Plate 4. The New Town-Hall in Amsterdam, about 1660.</figDesc>
+</figure>
+
+<pb n="121" />
+
+<figure url="images/plate_05.jpg" rend="w90">
+<anchor id="plate_05" />
+<index index="fig" />
+<head>Plate 5. The Bridge Called <q>Grimnessesluis</q> in Amsterdam.  After the drawing by Rembrandt in the Louvre, Paris.  Reproduced, by permission, from a copyright photograph by Messrs. Braun and Co., Dornach.</head>
+<figDesc>Plate 5. The Bridge Called <q>Grimnessesluis</q> in Amsterdam.</figDesc>
+</figure>
+
+
+<p>
+What we know of Rembrandt in connection with Amsterdam's town-hall supports the above theory: he seems to have liked the old building, a Late-Gothic structure, as he sketched it twice, once after its fire in 1652.  On the other hand, when in 1662 he executes a large decoration for the new town-hall, his work does not agree with the taste of his contemporaries and is returned to him (<title>The Plot of Claudius Civilis</title>, now much cut down, in the Museum at Stockholm).  Considering Rembrandt's style of expressing himself in his work, we find many instances to convince us of his preference for the architectural forms of an earlier period and of his lack of sympathy for those which were introduced during the later part of his life.  Is it to be wondered at that he, the warm-feeling artist, offspring of a school which affected richness and baroque, was no friend of a new tendency, the stateliness and broadness of which were bound to degenerate into coldness and stiffness?  Looking through his drawings and etchings (his pictures
+<pb n="122" />
+leave us no town-views taken from nature), we occasionally meet views of town-gates, old houses alone or crowded together, mills, all obviously sketched on account of a charm akin to Rembrandt's nature but foreign to the greatest part of the lay population of Amsterdam.   Some illustrations will show the master's preferences: a view on a little old bridge between compact houses, a spot called <ref target="plate_05" rend="color: blue"><foreign lang="nl">Grimnessesluis</foreign></ref>, still forming nowadays, notwithstanding many later alterations, one of the most typical views of old Amsterdam (<ref target="plate_05" rend="color: blue">plate 5</ref>).  We must here resist the temptation of reproducing some of Rembrandt's drawings of picturesque towngates (like those in the Louvre, R&yuml;ksmuseum at Amsterdam, the collections of M. Bonnat, the Duke of Devonshire, and Teyler at Haarlem),<note place="foot">
+<p>
+Described by Dr. Hofstede de Groot under numbers 656, 761, 857, 1211, 1334, and reproduced by Lippmann&mdash;Hofstede de Groot, 1st series 163, 3d series 23, 1st series 72, 2d series 79 and 8.
+</p>
+</note>
+because these appear to have been done on an excursion through the Netherlands, and cannot be identified with former gates of Amsterdam; there is, however, another drawing, more closely connected with landscape, giving a view of St. Anthony's Gate, quite near Rembrandt's house, at the end of the street where he lived, taken from the north outside the bulwark (<ref target="plate_06" rend="color: blue">plate 6</ref>).  On the opposite side of the town Rembrandt did that delightful sketch with the many mills in the foreground (<ref target="plate_07" rend="color: blue">plate 7</ref>).  In the city he again sketched a former fortification-tower, called <foreign lang="nl">Montelbaenstoren</foreign> (<ref target="plate_09" rend="color: blue">plate 9</ref>), showing to its right a perspective of the harbour.  We miss in this drawing the steeple, with which it had been ornamented since 1606; the municipality had the good sense, when new extensions were carried out in the beginning of the seventeenth
+<pb n="123" />
+<pb n="124" />
+<pb n="125" />
+<pb n="126" />
+century, to preserve the old fortification-towers which became useless because of the ramparts stretching farther, and to transform them into belfries by giving them graceful steeples with carillons.  Some of them, like the one mentioned here, have lasted till our days; and when the stranger is kept awake at night, in his hotel, by the gay clangor of their bells, he may grumble at them, unused as he is to their music, but when he hears them in daytime he should respect these three-centuries-old tones and meditate like Rossetti, when he was impressed by Van Eyck's and Memling's works in Bruges:&mdash;
+<q rend="display">
+The carillon, which then did strike<lb />
+Mine ears, was heard of theirs alike;<lb />
+It set me closer unto them.<lb />
+</q>
+</p>
+
+<figure url="images/plate06h.jpg" rend="w90">
+<anchor id="plate_06" />
+<index index="fig" />
+<head>Plate 6. View of the Ramparts of Amsterdam, with the St. Anthony-Gate in the Distance.  After the drawing by Rembrandt, formerly in the Heseltine Collection.</head>
+<figDesc>Plate 6. View of the Ramparts of Amsterdam, with the St. Anthony-Gate in the Distance.</figDesc>
+</figure>
+
+<figure url="images/plate07h.jpg" rend="w90">
+<anchor id="plate_07" />
+<index index="fig" />
+<head>Plate 7. Mills on the West Side of Amsterdam, Looking Toward the Town.  After the drawing by Rembrandt, formerly in the Heseltine Collection, now in a private collection in Kopenhagen.</head>
+<figDesc>Plate 7. Mills on the West Side of Amsterdam, Looking Toward the Town</figDesc>
+</figure>
+
+<figure url="images/plate08h.jpg" rend="w90">
+<anchor id="plate_08" />
+<index index="fig" />
+<head>Plate 8. View of the Same Side of Town as in Plate 7, but Looking Outward. The tower on the left is the same as sketched by Rembrandt (<ref target="plate_13" rend="color: blue">plate 13</ref>).  After an etching by R. Zeeman, about 1650.</head>
+<figDesc>Plate 8. View of the Same Side of Town as in Plate 7, but Looking Outward. </figDesc>
+</figure>
+
+<p>
+A more complete view of this site the reader will find in an etching by <name>Zeeman</name> (<ref target="plate_10" rend="color: blue">plate 10</ref>), where the tower is seen with its steeple which Rembrandt omitted because he considered the comparatively modern top in disharmony with the older body of the tower, or rather for the simple reason that his paper did not allow him sufficient space.  Another steepleless tower is drawn by him when he sketches the stronghold <foreign lang="nl">Swyght-Utrecht</foreign> with adjacent buildings (plates <ref target="plate_12" rend="color: blue">12</ref> and <ref target="plate_20" rend="color: blue">20</ref>).  Finally, there is the drawing of the tower of the Westerkerk, the only sketch after a more severe architecture, rather a transition from the earlier style of <name>De Keyser</name> to the later one of <name>Van Campen</name> (<ref target="plate_13" rend="color: blue">plate 13</ref>).
+</p>
+
+<figure url="images/plate_09.jpg" rend="w90">
+<anchor id="plate_09" />
+<index index="fig" />
+<head>Plate 9. The Tower Called <q>Montelraanstoren</q> In Amsterdam
+After the drawing by Rembrandt, formerly in the Heseltine Collection, now in the Rembrandt House, Amsterdam</head>
+<figDesc>Plate 9. The Tower Called <q>Montelraanstoren</q> In Amsterdam</figDesc>
+</figure>
+<pb n="128" />
+
+<figure url="images/plate10h.jpg" rend="w90">
+<anchor id="plate_10" />
+<index index="fig" />
+<head>Plate 10.  The Same Tower as in the Preceding Illustration, with its Steeple and Surroundings. After an etching by R. Zeeman, about 1650.</head>
+<figDesc>Plate 10.  The Same Tower as in the Preceding Illustration, with its Steeple and Surroundings.</figDesc>
+</figure>
+
+<pb n="129" />
+
+<figure url="images/plate11h.jpg" rend="w90">
+<anchor id="plate_11" />
+<index index="fig" />
+<head>Plate 11. The Canal called <q>Singel</q> in Amsterdam. On the left-hand side Rembrandt's son, Titus, lived during his short married life.  In the distance, the <q>Janroopoortstoren</q>.  After an etching by R. Zeeman, about 1650. </head>
+<figDesc>Plate 11. The Canal called <q>Singel</q> in Amsterdam. </figDesc>
+</figure>
+
+<p>
+In trying to reconstruct a picture of Amsterdam in Rembrandt's time, we must realise the architectural <emph>forms</emph> as well as the <emph>colours</emph>. It is natural that the town's colouristic aspect should harmonize with the colour schemes which we admire in Holland, in its landscapes,
+<pb n="127" />
+
+<pb n="130" />
+on its rivers and seacoast, in the pictorial masterpieces of its artists and in its interiors, which means that in the city also we are fascinated by the richness of tints, always subdued and variegated by a certain haziness.  It is a richness of a very subtle nature: no opposition of strong tints, but an endless, mostly light-scaled variety of transitions, now and then relieved by a more powerful note like the red of a roof or the paint of a boat; these higher notes are generally of a freshness as if they had been washed by a recent rain.  Against a sky, of which the blue or the clouds bear a bloom of a silvery hue, the houses show the tone of their bricks going from red-brown to a pale purple in so many deviations that the uniform indication of red would be unjust.  The trembling of the lights and shades of water all through the town and the green of so many trees planted along the quays, were of course two conditions which strongly helped in producing a particular colouristic charm and which meant an advantage over so many foreign towns.  Both these elements were and are still not to be found to such an extent in any other city, Venice naturally excepted on account of her waterways.  Concentrating our attention rather on colour than shape, we might retain for one moment the comparison with Venice, as it may help us to understand still better the value of what we were just admiring in Amsterdam.  By reason of their situation, their prosperity, their universality, their natural educational advantages, both towns were, so to say, bound to produce a great school of painters, and we need not here allude to the glory with which both towns covered themselves on this field in the eyes of the art world.  Stress should, however, be laid here on the fact that the two
+<pb n="131" />
+<pb n="132" />
+towns in question brought forth the two greatest schools of colourists, a fact which shows how in these centres circumstances favour the development of colouristic talents.  Mindful of the fact that the great painters are our teachers in the appreciation of nature's beauties and charms, we should, for our own instruction, contrast the two schools and try to discern the difference in their common merits.  We shall then notice that <q>richness in colour</q> does not mean the same in both cities.  As opposed to the abundance of glowing colours on the exuberant Venetian palette, we should place the subtile gradations, the well-balanced and restrained splendour and the endless variations of the seemingly restricted colour scale of the Dutch artist.  We shall so learn to love both better than we did before and, needless to say, our eyes will then be more open to the value of Amsterdam's scenery which so often inspired or stimulated the painters.
+</p>
+
+<figure url="images/plate12h.jpg" rend="w90">
+<anchor id="plate_12" />
+<index index="fig" />
+<head>Plate 12. The Tower called <q>Swyght-Utrecht</q>, and the <q>Doelen</q> in Amsterdam (see <ref target="plate_20" rend="color: blue">plate 20</ref>). After the drawing by Rembrandt in the collection of Dr. C. Hofsteded de Groot, The Hague.</head>
+<figDesc>Plate 12. The Tower called <q>Swyght-Utrecht</q>, and the <q>Doelen</q> in Amsterdam</figDesc>
+</figure>
+
+<p>
+After this little excursion let us reconsider the town's appearance.  In doing so, we must remember that it was already highly flourishing when Rembrandt settled within its ramparts; consequently it is clear that by far the greater part of the living houses belonged to the more picturesque preceding period.  The houses generally had three or four stories, and their fronts were without exception crowned by pointed gables, most of them stepped.  In the older quarters, where the houses were more crowded together, they very often had more stories and were strangely tall, but everywhere that irregular saw-like profile, formed by the steep-pitched gable-tops, appeared silhouetted against the sky (horizontal roof-lines, more in accordance with the new style of <name>Van Campen</name>, were slowly introduced but remained
+<pb n="133" />
+<pb n="136" />
+scarce).  All these house-fronts were, as we said before, gay in colour and enlivened by sandstone ornaments, windows with their small glistening panes set in lead, brightly painted shutters, here and there woodwork decorating the house-fronts, and as a rule an artistically carved stone-panel with figures and inscription or date lending a separate character to each house.  The house in which Rembrandt passed most of the years and in which he knew fortune and fame as well as sorrow and reverse, offers a good type of the then prevailing domestic architecture (<ref target="plate_16" rend="color: blue">plate 16</ref>).  The house still exists and has become, since its restoration, a few years ago, a place of pilgrimage for art-loving tourists.  We must, however, here call attention to a fact which is generally unknown to the public, namely, that, though restored, the house does not appear as it probably looked when Rembrandt lived in it.  This does not so much apply to the interior, because everybody will understand the impossibility of reconstructing the artist's direct surroundings, for lack of the furniture and works of art with which Rembrandt had crowded it.  More noteworthy is the fact that the facade has quite a different character.  The outer appearance of a house should as much as possible give a true illustration of the time at which it was built, especially as this one had retained its original form, apparently, when its greatest occupant inhabited it.  In its restored condition it still preserves important additions which date from a later period.  The two sketches on <ref target="plate_16" rend="color: blue">plate 16</ref> show us how the original picturesque stepped gable was changed into a cornice with a tympanon, giving a different appearance to the house.  Any eye familiar with Dutch architecture will detect in the front, in its present state, a difference in period between
+<pb n="137" />
+<pb n="138" />
+its lower and upper part.  The latter is about fifty years later, and the whole shows a mixture of the two styles which we have described: the earlier, varied style of a De Keyser and the later, more classical style of <name>Van Campen's</name> school (his pupil <name>Vingboons</name>?).  Probability, based on maps and documents like Rembrandt's inventory of 1656, and a recently discovered account regarding alterations done by the subsequent owners, and, moreover, the convincing difference in style, lead us to the conviction that the alteration in the front dates very shortly after Rembrandt's departure from the house, i.e. about 1660, when it was divided into two narrower residences.  The house-front, as it looks now, was probably familiar to Rembrandt in the last ten years of his life, even though we take into consideration his probable disinclination to look again and again at the place, where he had passed twenty years of his life, and where misfortune had cruelly put an end to better days; it is, however, an open question whether such a consideration offers sufficient ground for a restoration of the kind recently carried out.  Nevertheless we have to be thankful to the trustees that the house was saved, because it is Rembrandt's most intimate memorial, aside from his own work, left to posterity.
+</p>
+
+<figure url="images/plate_13.jpg" rend="w90">
+<anchor id="plate_13" />
+<index index="fig" />
+<head>Plate 13. The Tower Called <q>Westertoren</q> In Amsterdam. After the drawing by Rembrandt, in the Fodor Museum, Amsterdam</head>
+<figDesc>Plate 13. The Tower Called <q>Westertoren</q> In Amsterdam.</figDesc>
+</figure>
+
+<pb n="134" />
+
+<figure url="images/plate14h.jpg" rend="w90">
+<anchor id="plate_14" />
+<index index="fig" />
+<head>Plate 14. The Canal called <q>Prinsengracht</q> in Amsterdam. The tower seen on the left is the same as seen in the preceding illustration.  After an etching by R. Zeeman, about 1650.</head>
+<figDesc>Plate 14. The Canal called <q>Prinsengracht</q> in Amsterdam. </figDesc>
+</figure>
+
+<pb n="135" />
+
+<figure url="images/plate15h.jpg" rend="w90">
+<anchor id="plate_15" />
+<index index="fig" />
+<head>Plate 15. The St. Anthony-Market in Amsterdam, with the Old Gate Transformed into a Weighing-House.  After an etching by R. Zeeman, about 1650.</head>
+<figDesc>Plate 15. The St. Anthony-Market in Amsterdam, with the Old Gate Transformed into a Weighing-House. </figDesc>
+</figure>
+
+<figure url="images/plate_16.jpg" rend="w90">
+<anchor id="plate_16" />
+<index index="fig" />
+<head>Plate 16. Rembrandt's House In The <q>St. Anthonie-breestraat</q> In Amsterdam
+On the left: As it must have looked when Rembrandt occupied it. On the right: Present state.</head>
+<figDesc>Plate 16. Rembrandt's House In The <q>St. Anthonie-breestraat</q> In Amsterdam
+</figDesc>
+</figure>
+
+<p>
+This house welcomed Rembrandt in 1639, when he acquired it for 13,000 florins (a good price in those days, showing that it was a desirable residence) and saw itself adorned with a unique collection of works of art which its owner, passionate collector that he was, did not cease to enlarge.  That same house saw its illustrious occupant become more and more retiring, misunderstood by the majority of the public and finally struck by reverses, till a total bankruptcy necessitated the
+<pb n="139" />
+sale of the house in 1658.  It has often been thought, that his undying mania for collecting was the principal cause of his misfortune, but a document, recently discovered, shows that Rembrandt was, like so many of his fellow-citizens, the victim of the economic reverses caused by the first Anglo-Dutch war.  In 1653 nearly the whole trade was at a standstill, 1500 houses (others speak of double the number) stood empty, and on the 27th of June even the magistrate decided to leave off one of the two principal stories from its new magnificent town-hall, then in course of construction, a resolution which fortunately was revoked two years later.  As a matter of fact trade weakened heavily until 1660, suffering reverses, not only from England's attitude, but also from France's and Sweden's fiendish acts.  Although the town energetically opposed its enemies, often against the will of the Netherlands' States, it could not at once redress its internal depression, and we should not wonder at seeing the artist Rembrandt among the victims.  He avows in the document that he lost considerably in trade, especially in maritime ventures.  It seems that the trading hobby, innate in most Dutchmen at that time, was also strong in him; in an act of 1634 we see him already designated as <q>merchant</q> and not as artist!
+</p>
+<p>
+The house seems rather to have gone up in value, for it realised in these bad times nearly as much as Rembrandt had originally paid for it.  This is not to be wondered at, as it stood in a very profitable quarter.  The street followed the course of a dike, called the <foreign lang="nl">St. Anthoniesd&yuml;k</foreign>, from which it derived its name; this dike was then and had always been an important way of access to Amsterdam, as it was the only direct route to
+<pb n="140" />
+Diemen, Weesp, and Muiden. In the beginning of the seventeenth century it was inhabited by many aristocratic families, with whom gradually intermingled Portuguese Jewish refugees, as this was a new quarter where they could more easily find living accommodation.  As time went on, Jewish occupants began to dominate, and towards the close of the century the street was for that reason rebaptised from <foreign lang="nl">St. Anthoniebreestraat</foreign> into <foreign lang="nl">Joden</foreign> (= Jews') <foreign lang="nl">breestraat</foreign>.  We find this change illustrated in the fact that, when Rembrandt bought this house, one of his neighbours was a Jew, called <name>Salvador Rodrigue</name>, the other a Christian fellow-painter <name>Nicolaes Eliasz</name>, but when he left the house, <name>Eliasz</name> had died in 1654 and been succeeded by <name>Daniel Pinto</name>, again a noted Jewish name.  These Portuguese Jewish families were a great advantage to the town and should in no way be placed on a par with the poor Jews, mostly of German and Polish descent, now occupying this quarter.  The Portuguese Jews were highly cultured, well-to-do, orderly, and clean people; one of their most brilliant minds was Menasseh-ben-Israel, Rabbi at the Synagogue situated on a canal just behind Rembrandt's house, a great linguist, the first Hebraic printer in the Netherlands, the teacher of the celebrated philosopher Spinoza, a sympathetic and admirable figure, whom we see until the close of his life in friendly relations with Rembrandt.
+</p>
+<pb n="141" />
+
+<figure url="images/plate17h.jpg" rend="w90">
+<anchor id="plate_17" />
+<index index="fig" />
+<head>Plate 17.  The Bridge and Sluice called <q>St. Anthonie-sluis</q> in Amsterdam, seen from the North. Rembrandt's home (<ref target="plate_16" rend="color: blue">plate 16</ref>) stood in the immediate vicinity of this spot.  After the drawing by A. Waterloo, in the Fodor Museum, Amsterdam.</head>
+<figDesc>Plate 17.  The Bridge and Sluice called <q>St. Anthonie-sluis</q> in Amsterdam, seen from the North. 
+</figDesc>
+</figure>
+
+<p>
+If from this centre we look a little further around, we find in the same quarter other sites memorable in the artist's life: first of all in the same street, also near the bridge where Rembrandt's own house stood, we recognise the house of Mr. <name>Hendrick Uylenburgh</name>, a noted dealer in pictures and works of art and a publisher, with
+<pb n="142" />
+whom Rembrandt stood in close relation while yet residing in Leyden.  This relationship was further strengthened when the artist, coming for good to Amsterdam, resided with <name>Uylenburgh</name> and remained in his house for some years, during which time he had the good fortune to make the acquaintance of <name>Uylenburgh's</name> charming cousin <name>Saskia</name>, Rembrandt's future wife.  He married her in 1634, remaining at <name>Uylenburgh's</name> house until 1635.  During these years Rembrandt seems to have kept a large studio, especially for his pupils, in a warehouse on the Bloemgracht, a quarter where we shall find him again much later.  Passing along the same street, towards the centre of the town, we pass on the right, opposite the Zuiderkerk, the house where <name>Lastman</name> lived when he instructed the young Rembrandt, and at the end of the street we notice a heavy Late-Gothic building, the <foreign lang="nl">St. Anthonieswaag</foreign>, formerly one of the gates, when the town was less extensive, but now changed into a Public Weighing House.  Rembrandt's contemporary, the etcher <name>Zeeman</name>, has left us a charming little print of this edifice, reproduced on <ref target="plate_15" rend="color: blue">plate 15</ref>.  The reason it should now interest us is because on its first floor it lodged the Surgeons' Guild, for which Rembrandt painted, in 1632, his celebrated <title>Anatomical Lesson of Dr. Nicolaes Tulp</title>, now in the museum at The Hague.  The commission for this masterpiece of Rembrandt's younger years was perhaps, because of its dimensions, one of the reasons for his removal from Leyden to Amsterdam, as its date corresponds with his establishment in Amsterdam.  During two centuries the picture ornamented the interior of this building, together with another, still more wonderful, painting by him, <title>The Anatomical Lesson of Dr. Deyman</title>, of which only a central fragment was saved
+<pb n="143" />
+<pb n="144" />
+from a fire, now in the Amsterdam Ryksmuseum.  Turning our back to the big building and following the canal partly reproduced in the foreground of <name>Zeeman's</name> etching, we pass on the left the house of Mr. <name>Six</name>, whom Rembrandt must have visited often, and come in a few minutes into the <foreign lang="nl">Doelenstraat</foreign>, at the corner of which stood a massive tower, remainder of ancient fortifications, sketched by Rembrandt as we saw on <ref target="plate_12" rend="color: blue">plate 12</ref>.  Next to this building was the <foreign lang="nl">Doelen</foreign> (part of its back can be seen on the master's above-mentioned drawing), the meeting-place of the civic guards, now changed into a hotel of the same name, but in Rembrandt's day the place where the painter's most famous picture, <title>The Night Watch</title>, was kept, since a captain of the guards, Banning Cocq, had the daring idea of entrusting Rembrandt with the commission to portray him and his company.  Two houses further along the street (a site now occupied by a bank, next to Messrs. Frederik Muller &amp; Co.) we must pay attention to the place where Rembrandt lived in 1636. After his removal from his cousin <name>Uylenburgh's</name> house, Rembrandt himself states this address as <q>next to the pensionary Boreel</q> in a letter to the Prince of Orange's secretary, Huygens, a letter now preserved in the collection of Mr. Paul Warburg in New York.  That house must have been brand new in 1636, as building on that side of the <foreign lang="nl">Doelenstraat</foreign> was only started in 1635 (plates <ref target="plate_18" rend="color: blue">18</ref>, <ref target="plate_19" rend="color: blue">19</ref>, and <ref target="plate_20" rend="color: blue">20</ref>).  It seems, however, not to have satisfied the painter, because three years later, before his removal to his own house in the <foreign lang="nl">St. Anthoniebreestraat</foreign>, he gives his address, in another letter to Huygens, as being on the Amstel in a house called <foreign lang="nl">De suikerbakker&yuml;</foreign> (the sugar refinery) the exact situation of which has not yet been traced.
+</p>
+
+<figure url="images/plate_18.jpg" rend="w90">
+<anchor id="plate_18" />
+<index index="fig" />
+<head>Plate 18. The <q>doelenstraat</q> In Amsterdam (old situation)
+The receding building, behind the low wall with gate, on the right, is the <q>Doelen</q> for which Rembrandt painted <q>The Night Watch.</q> The house where the master lived in 1636 was next to the house seen on the extreme right. The tower seen above the roof is the one sketched by Rembrandt (<ref target="plate_12" rend="color: blue">plate 12</ref>). Compare also <ref target="plate_20" rend="color: blue">plate 20</ref>
+After the drawing by R. Vinkeles in the Archives in Amsterdam
+</head>
+<figDesc>Plate 18. The <q>doelenstraat</q> In Amsterdam (old situation)
+</figDesc>
+</figure>
+
+
+<pb n="145" />
+<pb n="146" />
+<pb n="147" />
+<pb n="148" />
+<p>
+Returning from this Doelenstraat to Rembrandt's restored house where we started our little excursion, and taking a street called the <foreign lang="nl">Staalstraat</foreign> on our right, we should observe a building on our left called the <foreign lang="nl">Staalhof</foreign>, the birthplace of that other masterpiece, rivalling <title>The Night Watch</title> in fame, namely The <foreign lang="nl">Staalmeesters</foreign> (The Syndics). When this great painting was achieved in 1661, Rembrandt, forced by the sale of his house, had already left this quarter of the town, but it is pleasing to notice that the <foreign lang="nl">Staalmeesters</foreign> had not forgotten the great painter, who had long lived in their neighbourhood.
+</p>
+
+<figure url="images/plate19h.jpg" rend="w90">
+<anchor id="plate_19" />
+<index index="fig" />
+<head> Plate 19. The Back of the Houses in the <q>Doelenstraat</q> in Amsterdam. The narrow house in the middle, two windows wide, is, although rebuilt, the one where Rembrandt lived in 1636.  To the left, part of Messrs. Frederk Muller &amp; Co.'s aution and exhibition rooms.</head>
+<figDesc>Plate 19. The Back of the Houses in the <q>Doelenstraat</q> in Amsterdam. </figDesc>
+</figure>
+
+<figure url="images/plate20h.jpg" rend="w90">
+<index index="fig" />
+<anchor id="plate_20" />
+<head>Plate 20. The Tower <q>Swyght-Utrecht</q> and the Backs of the Houses of the <q>Doelenstraat</q> in Amsterdam. The third house from the tower must be the one occupied by Rembrandt in 1636.  After an engraving by van Meurs of about 1660.</head>
+<figDesc>Plate 20. The Tower <q>Swyght-Utrecht</q> and the Backs of the Houses of the <q>Doelenstraat</q> in Amsterdam.</figDesc>
+</figure>
+
+<figure url="images/plate21h.jpg" rend="w90">
+<anchor id="plate_21" />
+<index index="fig" />
+<head>Plate 21. The Old Exchange in Amsterdam. After an engraving by Cl. Jz. Visscher.</head>
+<figDesc>Plate 21. The Old Exchange in Amsterdam. </figDesc>
+</figure>
+
+<p>
+To complete our survey of Rembrandt's dwellings in Amsterdam, we must finally follow him on his retirement, when, owing to his bankruptcy, his wonderful collection had been dispersed to the winds under the auctioneer's hammer, and when he had to leave his large house, the court allowing him to take only two stoves and some partitions in the attic.  We have therefore to cross the entire town in its width and repair to its western extension, where he lived about ten years until his death, most of this time in the company of his son Titus, and with his second wife <name>Hendrickje Stoffels</name>, until her death in 1664.  On examining the map of the town and comparing the design of the new western quarters around the <foreign lang="nl">Rozengracht</foreign> with the remainder of the town, we observe an incongruity in city planning, which calls for an explanation.  The oldest part in the centre faces the harbour and logically follows upwards the course of the Amstel River; the lay-out of the canals in that part is in accordance therewith, because they really are the former moats surrounding the protecting walls incorporated in the town during its various extensions from the fourteenth to the sixteenth century.  The
+<pb n="149" />
+<pb n="150" />
+following plan of the three canals, <foreign lang="nl">Heerengracht, Keizersgracht, and Prinsengracht</foreign>, the beginning of which on the west side takes place in Rembrandt's time, coincides with the fan-shaped plan of the town, but the outer quarters, including the Rozengracht, seem in disharmony.  The reason must be sought in the circumstance that the exploitation of these districts had to be kept on an economical scale, since the three principal canals mentioned above had been undertaken on so royal a scale.  Therefore the existing features were preserved: the many ditches, separating the meadows and gardens formerly occupying this site, were simply widened into canals; and the pathways, running between, were transformed into streets.  The peculiar characteristics of this part of the town, due to these conditions of growth, made it into a typical quarter, known as the <foreign lang="nl">Jordaan</foreign>; its population has always been one of modest means, mixing little with the town.  So we see that it was very appropriate for the painter's retirement, after his social downfall in the late fifties.
+</p>
+
+<figure url="images/plate_22.jpg" rend="w90">
+<anchor id="plate_22" />
+<index index="fig" />
+<head>Plate 22. The Inn Called <q>de Keizers Kroon</q> In The 
+Kalverstraat, Amsterdam. Here Rembrandt's collections were sold by auction, after his bankruptcy, in 1657 and 1058.
+After an anonymous drawing in the Archives in Amsterdam.
+</head>
+<figDesc>Plate 22. The Inn Called <q>de Keizers Kroon</q> In The 
+Kalverstraat, Amsterdam</figDesc>
+</figure>
+
+
+<p>
+Not only the direction of its canals and streets remind one of the former nature of this quarter, the places of amusement likewise are reminiscent of the times when well-to-do citizens had their gardens and pleasuregrounds amidst the meadows, before the city encroached upon them.  There were, for instance, two large gardens with mazes and fountains, formerly the property of Amsterdam burghers, afterwards for many years an attraction for the public.  One of them, at the end of the <foreign lang="nl">Rozengracht</foreign>, was owned and managed by <name>Lingelbach</name>, the father of <name>Johan</name> the painter.  An inscription in the burial-book of the <foreign lang="nl">Westerkerk</foreign>, saying that Rembrandt's corpse came on the 8th of October, 1669, <q>from the
+<pb n="151" />
+<pb n="152" />
+Rozengracht opposite the Labyrinth,</q> painfully reminds us how for the last sad years of his life the great painter had lived opposite this popular place of public amusement.
+</p>
+
+<figure url="images/plate_23.jpg" rend="w90">
+<anchor id="plate_23" />
+<index index="fig" />
+<head>Plate 23. The House Of Mr. F. Banning Cocq (the Captain And Prominent Person In Rembrandt's <q>Night-watch</q>) In Amsterdam
+After an anonymous drawing in the family archives of Jhr. D. de Graeff at The Hague
+</head>
+<figDesc>The House Of Mr. F. Banning Cocq </figDesc>
+</figure>
+
+</div>
+
+<div>
+<head type="sub">II</head>
+<p>
+Having dealt with the town's appearance, principally from an architectural point of view, in the preceding pages, because architecture is so essential in expressing a people's character and aspirations, we must now give our attention to another condition instrumental in completing a town's aspect, namely, the daily life which is animating it.  We, fast-living twentieth-century people, are apt to suppose that life some centuries ago was moving steadily but slowly, that people were spared the enervating excitements of our own days and that they consequently had a much more quiet and regular existence.  Contemporary documents prove that this opinion is wrong, at least in so far as Amsterdam is concerned.  Already in 1618 the Venetian <name>Antonio Donato</name> wrote of Amsterdam that the streets and public places were so thronged <q>that the scene looked like a fair to end in one day</q>; and did not Descartes write in 1631, when he resided in Amsterdam, that nobody noticed him because he was the only non-tradesman in Amsterdam amidst a trading population, attentive to its profits.  This reveals the bustling of the great commercial centre.  The facts have nothing astonishing in them if we realise that Holland's commercial ships numbered half of the world's trading-fleet and that Amsterdam harboured most of them.<note place="foot">
+<p>
+The statement of a sharp-eyed contemporary, the English ambassador, Sir William Temple, is here of interest and applies in the first place to Amsterdam, then exceeding in importance all the other Dutch towns: <q>It is evident, to those who have read the most, and travelled the farthest, that no country can be found either in the present age (i.e. 1672), or upon record of any story, where so vast a trade has been managed, as in the narrow compass of the four maritime Provinces of this commonwealth (i.e. the Dutch Republic): nay, it is generally esteemed that they have more shipping belong to them, than there does to the rest of Europe.</q>  (<title>Observations on the United Provinces</title>, Chap. VI, p. 182).
+</p>
+</note>
+ No wonder that, in such a
+<pb n="153" />
+town, life was intense and that its strong pulsation was felt everywhere: in crowded streets and quays, in numerous offices and warehouses, on the large exchange, around the Public Weighing Houses, in the shops and market-places, etc.  The ease and self-contentment with which the Dutch were so often reproached at the time of the French Revolution, were then unknown; on the contrary all was enterprise, action, and movement.  A salutary freshness of spirit was favoured by the variety of people crowding in this centre: the hospitality shown to people of various religions, from the busy Jews, to the refugees of Antwerp and Flanders, created a rivalry of interests, benefiting trade in general.
+</p>
+<p>
+To this animation caused by commerce we must add the life brought into the town's thoroughfares by the people's domestic and social existence, which was in those days much more out-of-doors than it is now, just as there was also a much less marked separation between the various classes: housewives going to the markets, children playing in the streets, families reposing in or before their open street-doors, people of the lower classes seeking in the street what their narrow and close dwellings could not give them, travellers being seen off at the harbourside or on the canal-quays, costermongers praising their wares.  There was, for example, the daily fishmarket behind the <foreign lang="nl">Dam</foreign>, Amsterdam's central
+<pb n="154" />
+square, of which the poet <name>Brederode</name> has left us such vivid pictures, bringing to our ears all the bargaining, shouting, and quarrelling of former days; there were numerous other markets necessitated, not only by the town's trade, but by its every-day needs: the weekly market for butter and cheese, which until 1669 enlivened the <name>Dam</name>, where now electric cars circulate and a much less-varied traffic passes by; the apple- and fruit-market on the <foreign lang="nl">Singel</foreign>, opposite the house where Rembrandt's only son Titus passed the few months of his married life; the flower-market, where the middleclass people found the cheap floral decorations for their often gloomy interiors: the meat-market in the <foreign lang="nl">Nes</foreign>: the Monday's market, on the <foreign lang="nl">Singel</foreign>, of small furniture and kitchen-utensils: the vegetable- and peat-market on the <foreign lang="nl">Prinsengracht</foreign>, etc.  That all good housewives, even those of middle and upper classes, made it a rule to frequent these markets is revealed to us not only by contemporary pictures but also by a passage in one of Huygens's letters to the Prince of Orange, in which this refined diplomat from The Hague expresses his astonishment at seeing the wife of Admiral de Ruyter go daily to market <foreign lang="fr"><q>le panier au bras.</q></foreign>
+</p>
+
+<pb n="155"/>
+
+<figure url="images/plate24h.jpg" rend="w90">
+<anchor id="plate_24" />
+<index index="fig" />
+<head>Plate 24. The Star of the Kings. Children before a street door on Epiphany-evening.  After the drawing by Rembrandt, in the British Museum, London.  Salting Bequest.
+</head>
+<figDesc>Plate 24. The Star of the Kings. </figDesc>
+</figure>
+
+<p>
+All these thousands of people, business-men, workmen, housewives, small traders, went about in comparatively simple dresses, in which the black and discreet colours predominated.  Against this sober background, the multi-coloured garments of the numerous strangers from over-seas were set off sharply: those of the Levantines, Persians, Poles, and others, who congregated in this international mart.  What was said of the citizens' dress does not imply that luxurious costumes were unknown in Amsterdam; the younger people of course donned lighter
+<pb n="156" />
+and more elegant clothes, and married ladies at home knew very well how to charm the eyes of their visitors.  Gradually, as Amsterdam's wealth increased, the upper classes became more luxurious, and towards the end of Rembrandt's life we see a complete change effected: we may say that when the architects preferably imitated the Italian Palladio or the French Mansart, and when the feebler painters followed the degenerating taste of the public,&mdash; then the leading classes took to French fashions, and wigs came into use.  Rembrandt's pictures show us sufficiently that he kept aloof from this deplorable but fated change, and we must imagine him moving within the classes which remained loyal to the solid habits of the first period of his life in Amsterdam.
+</p>
+<p>
+Mingling with this traffic we find the children amusing themselves, venting their love of ridicule and, above all things, fighting, in those parts from which they were later on banished on account of a more regular education, or because of certain districts turning into exclusive shop- or office-quarters.  Their playfulness fell again and again into wild excesses, which forced the magistrate to pass prohibitive laws, in order to protect citizens from injury and damage.  Add to this the great number of beggars, peasant-people, many of them, impoverished by the wars, bohemians, highwaymen, remnants of army-trains, all flocking to the great centre in the hope of finding assistance, strolling musicians, quacksalvers and mountebanks at market time (<ref target="plate_26" rend="color: blue">plate 26</ref>), periodic parades of gaily-dressed civic guards.  Add to this the fairs, and we shall have completed in our imagination a scene which is of the liveliest, and certainly of a far greater charm and variety than our present more monotonous and regulated existence.  Rembrandt's
+<pb n="157" />
+
+<figure url="images/plate_25.jpg" rend="w90">
+<anchor id="plate_25" />
+<index index="fig" />
+<head>Plate 25. Children Refore A Street Door: The One In The Middle With A <q>Rommelpot</q>. After the drawing by Rembrandt, in the British Museum, London
+</head>
+<figDesc>Plate 25. Children Refore A Street Door: The One In The Middle With A <q>Rommelpot</q></figDesc>
+</figure>
+
+<pb n="158" />
+etchings and drawings give us numerous little illustrations in this respect, as may be seen from the superb drawing lately added to the British Museum by the Salting bequest, showing children going about with the star (a structure of oiled paper on a stick, lit from behind with a candle) on Epiphany-evening, and singing before the houses, as they also did, some months later, on Shrove Tuesday, accompanying their songs with the <foreign lang="nl">rommelpot</foreign>, a musical instrument well known from Hals's pictures, and consisting of an earthenware pot, covered with parchment or bladder, through which a stick was moved up and down (plates <ref target="plate_24" rend="color: blue">24</ref> and <ref target="plate_25" rend="color: blue">25</ref>).  Rembrandt's etchings reproducing tramps and street-types, like his rat-killer, are no doubt so familiar to our readers that we need not recall them by means of reproductions.
+</p>
+<p>
+The tidiness and orderly habits of the Dutch were effective in putting limits to the disorder and dirt which are so often the nuisance of seaports.  This was still more obvious in the interiors of the dwelling-houses where the Dutch housewives exerted the supremacy of their cleaning and washing propensity, <foreign lang="fr"><q>cette propri&eacute;t&eacute; hollandaise qui commence par &eacute;tonner et qui finit, quand on demeure dans le pays, par devenir un besoin, une n&eacute;cessite&hellip;une vertu contagieuse,</q></foreign> as Havard says.  A similar sense of order was to be noted in the administration of public charities: orphanages, asylums, hospitals, and similar institutions were founded and generously endowed, mostly by private initiative, and were organised in such a careful and sensible way that most of them have lasted, under the same rules, until our days.<note place="foot">
+<p>
+It is interesting to note here the following opinions of a contemporary, Sir William Temple: <q>There are some customs or dispositions, that seem to run generally through all these degrees of men among the them; as great frugality, and order, in their expenses.  Their common riches lie in every man's having more than he spends; or, to say it more properly, in every man's spending less than he has coming in, be that what it will: nor does it enter into men's heads among them, that the common port or course of expence should equal the revenue and, when this happens, they think at least they have lived that year to no purpose; and the train of it discredits a man among them, as much as any vicious or prodigal extravagance does in other countries.  This enables every man to bear their extreme taxes, and makes them less sensible than they would be in other places.</q> (<title>Observations upon the United Provinces</title>, Chap. IV, p. 158.)
+</p>
+</note>
+Ascending
+<pb n="159" />
+
+<figure url="images/plate_26.jpg" rend="w90">
+<anchor id="plate_26" />
+<index index="fig" />
+<head>Plate 26. A Quacksalver on a Market-Place.  After the drawing by Rembrandt.  In the collection of Frederich August II, in Dresden.
+</head>
+<figDesc>Plate 26. A Quacksalver on a Market-Place. </figDesc>
+</figure>
+
+<pb n="160" />
+to higher levels we again observe, in the town's democratic magistrates, that orderly spirit and caution which enabled these practical, vigilant authorities to consolidate the town's importance and to develop it to the highest power in the Netherlands, dreaded by foreign competitors and possessing, so to say, the supremacy of the sea.  They were characteristic representatives of the citizens' nature: cool-headedness and a very strong feeling of independence, rooted in their own and their fathers' emancipation from Spanish domination, and in their energetic tradesmanship.  We here touch a more abstract subject, not less essential in constituting the general disposition of the town, namely, the nature and spirit of its individuals, forming, so to say, the town's own soul.  This is a point that should not be overlooked, as the Dutch character and demeanour are two things often misunderstood, which certainly require some insight and explanation in order to be appreciated.
+</p>
+
+<pb n="161" />
+<p>
+The modern civilized person who found himself transplanted in Amsterdam 250 years ago, might certainly be displeased with the behaviour of even the better classes.  We readily concede that their manners were rather raw and lacking in refinement.  Sir William Temple, in his <q>Observations,</q> published three years after Rembrandt's death, calls the Hollanders <q>clownish and blunt,</q> and this typifies them in their attitude towards intellectual foreign people.  Amongst themselves, even in circles where a taste for art and science was well developed, coarse festivals, excessive meals, and gross humour was often met with, peculiarities, however, which the Dutchman had in common with Anglo-Saxons, Germans, and other Northern races at that time.  The sense of independence and self-reliance, then very strongly developed in the Hollanders, hindered the improvement which the experience gained from foreign journeys to France and Italy, of a few patricians, might have brought.  There was also the fact of Amsterdam never having been, like The Hague, a princely residence with its trail of ambassadors and nobility, for which reason the Hollanders in Amsterdam remained more themselves, a characteristic even evident in our day.  But if their manners formerly lagged somewhat behind, we must not forget that most of their natural sterling qualities were allowed to develop freely.  These characteristics do not always strike the foreigner at first sight, hidden as they are by a certain slowness in expression and heaviness in deportment, springing from the Hollander's habit of deliberation.  What frequently is taken for coldness, for insensibility, for haughtiness, appears to be reserve which is put aside only when the Hollander feels very sure of his opinion.  To these typical qualities of a trading nation must be added a perseverance of will and a determination to attain, which are often wrongly interpreted as egotism.  Any one who has a real friend among Dutchmen will appreciate him as a very staunch one, although it may have taken some time to break the reserve!  Openness, good-heartedness, generosity, will
+<pb n="162" />
+then be detected where they were at first not suspected.  It may now be understood that the intercourse with Rembrandt was far from easy, because he was a typical Hollander, good-natured, but with an extra amount of impulsiveness and self-esteem, as may be gathered from his biography and from his work.  Consequently, if he had numerous acquaintances, his real friends were not many.  We find for instance few traces of intimate friendship with other painters, excepting his pupils, although his fellow-artists were very numerous.  The landscape-painter <name>Roghman</name> and the rich marine painter-amateur <name>Van de Cappelle</name>, perhaps also <name>Assel&yuml;n</name>, are about the only ones who seem to have been in close relation with the master.  Of his pupils the most promising ones, <name>Bol</name> and <name>Flinck</name>, rapidly estranged from their master both socially and artistically,&mdash;others like <name>Maes</name>, <name>de Gelder</name>, and <name>Hoogstraten</name> returned to their native town Dordrecht. Only <name>Van den Eeckhout</name> and <name>Philips Koninck</name> appear to have remained on intimate terms with Rembrandt.  To his artist-friends we may here add the calligrapher <name>Lieven Coppenol</name>, whose fine etched portraits by Rembrandt the reader will remember, and very likely, too, the celebrated silversmith <ref target="plate_27" rend="color: blue"><name>Lutma</name></ref>, a man of a very personal talent.
+</p>
+<p>
+After what was said of the town's and its burghers' outward appearance, we would do well to devote another moment's attention to what we called the town's soul and observe more closely the intellectual life of Amsterdam, thus facilitating a more general understanding of the period.
+</p>
+<p>
+At the time when Rembrandt established himself in Amsterdam, a great improvement had taken place in its religious conditions. Ever since 1578 the town had
+
+<pb n="163" />
+
+<figure url="images/plate_27.jpg" rend="w90">
+<anchor id="plate_27" />
+<index index="fig" />
+<head>Plate 27. Portrait Of Jan Lutma.  From an impression, in the First State, of Rembrandt's etching, in the Museum of Fine Arts, Boston.
+</head>
+<figDesc>Plate 27. Portrait Of Jan Lutma. </figDesc>
+</figure>
+
+<pb n="164" />
+been exclusively Protestant, but internal dissensions had succeeded the abolition of the Roman Catholic Church, and in the beginning of the seventeenth century had resulted in intense factional feeling.  Towards 1630 this storm had subsided and the magistrates, although themselves clinging to the Reformed Protestant Church, did not further molest other sects, such as the Remonstrants, Lutherans, Mennonites, and Walloons, who were permitted to build their own churches.  The Catholics also were again able to fulfill their religious duties on condition that they avoided ostentation.  The Jews officiated in their own Synagogues and nowhere enjoyed greater liberty than in Amsterdam.<note place="foot">
+<p>
+Sir William Temple writes in 1672: <q>It is hardly to be imagined, how all the violence and sharpness, which accompanies the differences of religion in other countries, seems to be appeased or softened here, by the general freedom which all men enjoy, either by allowance or connivance.  No man can here complain of pressure in his conscience. The power of religion among them, where it is, lies in every man's heart.</q> (<title>Observations</title>, Chap. V, p. 180.)
+</p>
+</note>
+ The royal road of religious tolerance, rare in those days, was more and more deliberately taken, and it sounds well to hear how in 1660 Governor Stuyvesant, of New-Amsterdam (New York), receives from his directors in Amsterdam the following admonition to be less rigorous against other sects: <q>Let everybody remain unmolested as long as he behaves modestly and peacefully, as long as he does damage to nobody and does not oppose the magistrates.  This principle of statesmanship and forbearance was always honoured by the government of this city and the consequence was, that the persecuted and the downtrodden from all countries congregated in this haven of refuge.  Tread in its footsteps and you will be blessed.</q> This attitude, taken by the public authorities, greatly promoted general welfare, spiritually as well as materially.
+<pb n="165" />
+We may conclude from Rembrandt's work how prejudices were then overcome and how freely the leading intellects intermixed: the Calvinistic Reformed Minister <name>Sylvius</name>, the Mennonite Minister <name>Cornelis Anslo</name>, the Jewish doctor <name>Ephraim Bonus</name>, the Rabbi <name>Menasseh-ben-Israel</name>, whom we have mentioned before, were among the master's intimate friends, or were at least so portrayed by him that we understand from the loving application, manifested in his work, how deeply he appreciated their highly cultured mind and heart.
+</p>
+<p>
+This freedom of religion went hand in hand with an animated mental evolution and naturally favoured it considerably. At the time of Rembrandt's settlement in Amsterdam we find proof of this in the foundation, in 1632, of a classical school, the forerunner of the later university, called the <q>Athen&aelig;um illustre,</q> where the celebrated professors <name>Vossius</name> and <name>Van Baerle</name> (or <name>Barloeus</name>) initiated many youths into the secrets of philosophy, languages, and other sciences.  Within the leading classes of Amsterdam's population, supported by the great merchants, interest in matters of art and science strongly develops, though as we noticed before, in the case of the town-hall architecture, with a marked preference for classicism and all foreign civilization.  It seems as though these clever merchants could not understand that their own genial countrymen were sufficiently gifted and quite capable of astonishing the world by their work; this increasing lack of mutual appreciation is not so astonishing, if we take into consideration Holland's, and especially Amsterdam's, rapid growth, making all those people (aside from the great artists, who were sufficiently confident in their own powers), feel small and humble in face of the firmly established fame
+<pb n="166" />
+and merits of the classics and the Italians.  The large and fertile School of Amsterdam painters, Rembrandt foremost among them, felt this keenly: landscapes of Italy and allegorical and mythological subjects were preferred to the productions of an art intensely national, the sincerity of which failed to impress the Dutch amateurs.  Even portraiture, an art where sincerity is so indispensable, felt the effects of the people's blindness, and in the last years of Rembrandt's life we see those portrait-painters coming to the fore, who did away with true expression of character and joined the private burghers in their decadent predilection for artificiality in dress and appearance.
+</p>
+<p>
+It is not to be wondered at, that on this fertile Amsterdam soil intellect and art blossomed splendidly in other ways also.  Music was in great favour and could boast a celebrity: <name>Sweelinck</name>, the organist and composer.  Besides this there was a great literary movement; to emphasize its importance it suffices to say that half of the literary productions of the Netherlands in the seventeenth century were by Amsterdam writers.  The ordinary public was rather slow in recognising their merits, and as a rule only estimated poetry when it had an edifying and moralising tendency.  A practical use was made of the poets, when pithy verses or inscriptions for gables or institutions were needed and when wedding-parties, births and deaths, necessitated the scarcely ever failing poems.  Nevertheless highly meritorious and lasting work was produced by the popular poets, such as <name>Brederode</name> and <name>Starter</name>, and <name>Samuel Coster</name>, who founded in 1617 the first permanent theatre (<foreign lang="nl">de Duytsche Akademie</foreign>, i.e. the Dutch Academy), the more refined and classically educated <name>Hooft</name>, who, like <name>Gerard Brandt</name>, also
+<pb n="167" />
+produced excellent prose, the genial and universal <name>Vondel</name>, the greatest of all, and the poets of less originality like <name>Andries Pels</name>, <name>Reyer Anslo</name> (not to be confuted with Rembrandt's friend the clergyman <name>Cornelis Claesz. Anslo</name>), <name>Jan Vos</name>, <name>Jan Hz. Krul</name>, <name>Jeremias de Decker</name>, passing over in silence those of a subsequent generation.  Only the last three are known to have been on intimate terms with Rembrandt; no traces appear in the artist's work of any friendly relation with the others, especially with the great <name>Vondel</name>, and on this ground we may safely say that such a relation is not very likely to have existed, because the hard-working painter had a homely life, and all relations he had with lending men of his time generally reflect themselves either in his pictures, drawings, or etchings.  Amoug the latter we meet one person whom we should not omit, because he is the representative of another class of people than we have mentioned above, namely <name>Jan Six</name>, the son of a wealthy silk-dyer and textile manufacturer, who continued his fathers business till 1652 and who, after Rembrandt's death, rose to important functions in the magistracy.  Excepting this influential person, Rembrandt obviously had little intimate intercourse with the town's patricians or authorities, his art absorbing him so much that even public events of note, do not appear to have claimed his attention.  We may therefore pass in silence the historic events coinciding with his lifetime.  Suffice it to say that those concerning Amsterdam exclusively, were not many and that even the greatest events in the history of the Netherlands were in those times generally accounted by Amsterdam's citizens as secondary to their town's interest as the greatest commercial centre.  Their magistrates, if they wanted to promote the city's
+<pb n="168" />
+particular interest, did not hesitate to oppose the Stadhouder's power and the will of the States General.  Their solicitude and vigilance for their town's welfare are quite remarkable; but that their attachment often blinded them to their country's more general interests, becomes clear, if we consider that Amsterdam was more important than all the towns of the province of Holland together and that the province of Holland alone provided 60 per cent of the total income of the Seven Provinces forming the Dutch Republic.  Hence, until the present time, the name of Holland is generally used in designating the Netherlands.
+</p>
+<p>
+Taking all in all and remembering especially what was said about the town's outward appearance and population, we must conclude that no place could have been more appropriate than Amsterdam, as the abode of the typically Dutch genius Rembrandt.  A noted Dutch writer, <name>Van Deyssel</name>, has expressed this well in the following words: <q>Rembrandt and Amsterdam, these belong so amazingly together!  There are northern cities, that are like Amsterdam, but it seems to us that Amsterdam for the one who beholds her quietly, has a unique, unequalled, deep charm.  Amsterdam is the heart of Holland and this means that it lies in the middle of Holland as the heart in a flower, and that it is the spot where the most delicate beauty of Holland is found.</q>  No art is more akin to the city's beauty and embodies it better than the art of Rembrandt.
+</p>
+<p>
+It is hard to take leave of Rembrandt and his unique abode, without allowing the town's immediate surroundings to fascinate us by their quite original charm.  The excursion, which we could offer our friends through
+<pb n="169" />
+Amsterdam's immediate neighbourhood, in Rembrandt's company, would, however, give rise to so many comments, often of great local interest, that they would far exceed the limits of this periodical.  The reader shuuld therefore look for an account of such an excursion along the Amstel River, past diked, across meadows, illustrated by Rembrandt's works, in one of the coming numbers of the Dutch art-periodical <q>Oud-Holland.</q>
+</p>
+</div>
+
+
+</body>
+<back rend="page-break-before: right">
+
+<div id="footnotes">
+<index index="toc" />
+<index index="pdf" />
+<head>Footnotes</head>
+<divGen type="footnotes"/>
+</div>
+
+<div rend="page-break-before: right">
+<divGen type="pgfooter" />
+</div>
+</back>
+</text>
+</TEI.2>
