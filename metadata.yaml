@@ -1,0 +1,29 @@
+_repo: Rembrandt-s-Amsterdam_31127
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lugt, Frits
+    alias: Lugt, Frederik Johannes
+    birthdate: 1884
+    deathdate: 1970
+    gutenberg_agent_id: '35016'
+    url: http://www.gutenberg.org/2009/agents/35016
+description: ''
+gutenberg_issued: '2010-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DJ'
+- !lcsh 'Amsterdam (Netherlands) -- Pictorial works'
+- !lcsh 'Rembrandt Harmenszoon van Rijn, 1606-1669'
+- !lcc 'ND'
+title: Rembrandt's Amsterdam
+url: http://www.gutenberg.org/ebooks/31127
